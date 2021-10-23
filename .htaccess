@@ -6,6 +6,6 @@ RewriteCond %{REQUEST_FILENAME} !-l
 
 RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
 
-ErrorDocument 403 https://celke.com.br
+ErrorDocument 403 https://fabiosalles.com.br
 
 Options -Indexes

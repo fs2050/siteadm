@@ -5,8 +5,8 @@ if(!defined('R4F5CC')){
     die("Erro: Pagina nao encontrada!<br>");
 }
 
-define("URLSITE", "https://git.heroku.com/siteadm.git");
-define('URLADM', "https://git.heroku.com/siteadm.git/adm");
+define("URLSITE", "https://localhost:8080/framework/");
+define('URLADM', "https://localhost:8080/framework/adm");
 
 define("HOST", 'localhost');
 define("USER", 'root');

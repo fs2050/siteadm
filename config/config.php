@@ -5,8 +5,8 @@ if(!defined('R4F5CC')){
     die("Erro: Pagina nao encontrada!<br>");
 }
 
-define("URLSITE", "https://localhost:8080/framework/");
-define('URLADM', "https://localhost:8080/framework/adm");
+define("URLSITE", "https://siteadmindev.herokuapp.com/");
+define('URLADM', "https://siteadmindev.herokuapp.com/adm");
 
 define("HOST", 'ec2-18-211-243-247.compute-1.amazonaws.com');
 define("USER", 'udtvyekwrotmql');
